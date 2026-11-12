@@ -9,7 +9,8 @@
 </p>
 
 <p>
-  <a href="https://huggingface.co/spaces/Eterniti/tiny-aya-safety-playground">🚀 Live ZeroGPU Demo</a> ·
+  <a href="assets/demo.mp4">▶ Watch the 80-second demo</a> ·
+  <a href="https://huggingface.co/spaces/Eterniti/tiny-aya-safety-playground">🚀 Live ZeroGPU Space</a> ·
   <a href="https://huggingface.co/blog/Eterniti/tiny-aya-safety-alignment-steering">📝 Technical Article</a> ·
   <a href="https://huggingface.co/collections/Eterniti/tiny-aya-safety-alignment-and-steering-6af57502e34895830a3fb0f4">🤗 HF Collection</a> ·
   <a href="#-5-reproduce-locally-or-in-colab">💻 Quickstart</a>

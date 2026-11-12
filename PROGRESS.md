@@ -43,4 +43,4 @@
 1. ✅ **Public Hugging Face Collection Created:** All 4 artifacts bundled into [Tiny Aya Safety Alignment & Steering](https://huggingface.co/collections/Eterniti/tiny-aya-safety-alignment-and-steering-6af57502e34895830a3fb0f4), and `cc-by-nc-4.0` license tags set on both the adapter and dataset cards.
 2. ✅ **Hugging Face Article Published:** Live at [Calibrated Safety Alignment & Layer-Targeted Steering for Cohere Tiny Aya](https://huggingface.co/blog/Eterniti/tiny-aya-safety-alignment-steering) and linked in `README.md`.
 3. ✅ **Submission Form Submitted:** Official Lexsi AI Safety Hackathon submission received ahead of the **November 14, 2026 (AoE)** deadline.
-4. **Optional Post-Submission Polish:** Add `HF_TOKEN` secret to the ZeroGPU Space (`Eterniti/tiny-aya-safety-playground/settings`) and attach garnished 90s demo video to `README.md`.
+4. ✅ **ZeroGPU Space + 80s Demo Video Complete:** Live ZeroGPU Space tested cleanly (`Live Red-Teaming`), animated README banner ([hero_banner.gif](assets/hero_banner.gif)) and garnished 1080p demo ([demo.mp4](assets/demo.mp4)) linked in `README.md`.
