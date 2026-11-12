@@ -9,6 +9,7 @@
 
 | Artifact | Location | Details |
 | :--- | :--- | :--- |
+| **Hugging Face Article** | [Calibrated Safety Alignment & Layer-Targeted Steering for Cohere Tiny Aya](https://huggingface.co/blog/Eterniti/tiny-aya-safety-alignment-steering) | Full 9-section technical writeup, architecture, benchmarks & methodology |
 | **Hugging Face Collection** | [Tiny Aya Safety Alignment & Steering](https://huggingface.co/collections/Eterniti/tiny-aya-safety-alignment-and-steering-6af57502e34895830a3fb0f4) | Unified public collection linking model, datasets, audit logs, and Space |
 | **Live Interactive Space** | [Eterniti/tiny-aya-safety-playground](https://huggingface.co/spaces/Eterniti/tiny-aya-safety-playground) | Running on ZeroGPU (`zero-a10g`), Gradio UI with probe comparison & live test tab |
 | **Aligned LoRA Adapter (v2)** | [Eterniti/tiny-aya-safety-dpo-adapter](https://huggingface.co/Eterniti/tiny-aya-safety-dpo-adapter) | `CohereLabs/tiny-aya-earth` + DPO LoRA (`7.67M` trainable params, `0.2284%` budget, 160 steps) |

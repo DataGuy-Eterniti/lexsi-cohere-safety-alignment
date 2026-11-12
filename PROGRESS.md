@@ -1,6 +1,6 @@
 # 📌 Lexsi AI Safety Hackathon — Project Progress & Checkpoint
 
-**Last Updated:** November 12, 2026 (08:53 CET)  
+**Last Updated:** November 12, 2026 (09:55 CET)  
 **Submission Deadline:** November 14, 2026 (AoE) — *~2.5 days remaining*  
 **Hackathon:** [Lexsi AI Safety and Alignment Hackathon](https://hackathon.lexsi.ai/) (Lexsi Labs × Cohere Labs × Hugging Face)  
 **Track:** Track 2: AI Safety, Red Teaming, and Correction (Problem 2b: Safety Calibration, Hallucination/Loop Repair, and SafeTune Steering)  
@@ -19,7 +19,7 @@
 | **AuditKIT Evaluation Logs** | [Eterniti/tiny-aya-safety-audit-logs](https://huggingface.co/datasets/Eterniti/tiny-aya-safety-audit-logs) | 🟢 **Published (`RedTeamRunner` 47 checks)** |
 | **GitHub Repository** | [DataGuy-Eterniti/lexsi-cohere-safety-alignment](https://github.com/DataGuy-Eterniti/lexsi-cohere-safety-alignment) | 🟢 Updated with verified chart, `README.md`, & `SUBMISSION_ARTICLE.md` |
 | **Hugging Face Collection** | [Tiny Aya Safety Alignment & Steering](https://huggingface.co/collections/Eterniti/tiny-aya-safety-alignment-and-steering-6af57502e34895830a3fb0f4) | 🟢 **Published** (all 4 Hub artifacts linked + `cc-by-nc-4.0` licenses set) |
-| **9-Section HF Article** | [SUBMISSION_ARTICLE.md](SUBMISSION_ARTICLE.md) | 🟢 Finalized with live Collection URL — ready to publish on Hugging Face |
+| **9-Section HF Article** | [Calibrated Safety Alignment & Layer-Targeted Steering for Cohere Tiny Aya](https://huggingface.co/blog/Eterniti/tiny-aya-safety-alignment-steering) | 🟢 **Published** on Hugging Face Blog (`SUBMISSION_ARTICLE.md`) |
 
 ---
 
@@ -41,5 +41,5 @@
 ## 📋 Final Pre-Deadline Checklist (Due Nov 14, AoE)
 
 1. ✅ **Public Hugging Face Collection Created:** All 4 artifacts bundled into [Tiny Aya Safety Alignment & Steering](https://huggingface.co/collections/Eterniti/tiny-aya-safety-alignment-and-steering-6af57502e34895830a3fb0f4), and `cc-by-nc-4.0` license tags set on both the adapter and dataset cards.
-2. **Publish Hugging Face Article:** Copy [SUBMISSION_ARTICLE.md](SUBMISSION_ARTICLE.md) (Collection link already inserted), attach `benchmark_results.png` in Section 7, and publish on Hugging Face.
+2. ✅ **Hugging Face Article Published:** Live at [Calibrated Safety Alignment & Layer-Targeted Steering for Cohere Tiny Aya](https://huggingface.co/blog/Eterniti/tiny-aya-safety-alignment-steering) and linked in `README.md`.
 3. **Submit Form:** Submit the public GitHub repo, HF Collection, Space, and HF Article via the official Lexsi hackathon submission form before **November 14, 2026 (AoE)**.
