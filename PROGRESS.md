@@ -1,6 +1,6 @@
 # 📌 Lexsi AI Safety Hackathon — Project Progress & Checkpoint
 
-**Last Updated:** November 12, 2026 (09:55 CET)  
+**Last Updated:** November 12, 2026 (10:37 CET)  
 **Submission Deadline:** November 14, 2026 (AoE) — *~2.5 days remaining*  
 **Hackathon:** [Lexsi AI Safety and Alignment Hackathon](https://hackathon.lexsi.ai/) (Lexsi Labs × Cohere Labs × Hugging Face)  
 **Track:** Track 2: AI Safety, Red Teaming, and Correction (Problem 2b: Safety Calibration, Hallucination/Loop Repair, and SafeTune Steering)  
@@ -42,4 +42,5 @@
 
 1. ✅ **Public Hugging Face Collection Created:** All 4 artifacts bundled into [Tiny Aya Safety Alignment & Steering](https://huggingface.co/collections/Eterniti/tiny-aya-safety-alignment-and-steering-6af57502e34895830a3fb0f4), and `cc-by-nc-4.0` license tags set on both the adapter and dataset cards.
 2. ✅ **Hugging Face Article Published:** Live at [Calibrated Safety Alignment & Layer-Targeted Steering for Cohere Tiny Aya](https://huggingface.co/blog/Eterniti/tiny-aya-safety-alignment-steering) and linked in `README.md`.
-3. **Submit Form:** Submit the public GitHub repo, HF Collection, Space, and HF Article via the official Lexsi hackathon submission form before **November 14, 2026 (AoE)**.
+3. ✅ **Submission Form Submitted:** Official Lexsi AI Safety Hackathon submission received ahead of the **November 14, 2026 (AoE)** deadline.
+4. **Optional Post-Submission Polish:** Add `HF_TOKEN` secret to the ZeroGPU Space (`Eterniti/tiny-aya-safety-playground/settings`) and attach garnished 90s demo video to `README.md`.

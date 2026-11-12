@@ -1,7 +1,28 @@
-# 🛡️ Calibrated Safety Alignment & Steering Pipeline for Cohere Tiny Aya
+<div align="center">
 
-**Lexsi AI Safety and Alignment Hackathon (November 2026)**  
-*Track 2: AI Safety, Red Teaming, and Correction — Lexsi Labs × Cohere Labs × Hugging Face*
+<img src="assets/hero_banner.gif" alt="Calibrated Safety Alignment & Layer-Targeted Steering for Tiny Aya (3.35B)" width="100%" />
+
+<br /><br />
+
+<p>
+  <strong>Calibrated DPO alignment and Layer [13, 14, 15] inference-time steering for <code>CohereLabs/tiny-aya-earth</code> (3.35B).</strong> Blocks persona jailbreaks and eliminates clinical loop stutter with zero benign over-refusal.
+</p>
+
+<p>
+  <a href="https://huggingface.co/spaces/Eterniti/tiny-aya-safety-playground">🚀 Live ZeroGPU Demo</a> ·
+  <a href="https://huggingface.co/blog/Eterniti/tiny-aya-safety-alignment-steering">📝 Technical Article</a> ·
+  <a href="https://huggingface.co/collections/Eterniti/tiny-aya-safety-alignment-and-steering-6af57502e34895830a3fb0f4">🤗 HF Collection</a> ·
+  <a href="#-5-reproduce-locally-or-in-colab">💻 Quickstart</a>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/license-CC--BY--NC--4.0-4c9a2a?style=flat-square" alt="License: CC-BY-NC-4.0" />
+  <img src="https://img.shields.io/badge/Cohere_Tiny_Aya_Earth-3.35B-007ec6?style=flat-square" alt="Tiny Aya Earth 3.35B" />
+  <img src="https://img.shields.io/badge/steering-Layers_13--15_Pareto-0f766e?style=flat-square" alt="Layers 13-15 Pareto Steering" />
+  <img src="https://img.shields.io/badge/status-Lexsi_Track_2a_%26_2b-d97706?style=flat-square" alt="Lexsi Track 2a & 2b" />
+</p>
+
+</div>
 
 ---
 
@@ -25,7 +46,7 @@ Small open-weights models (`~3B` parameters) deployed in latency- and cost-const
 1. **Jailbreak & Prompt-Injection Fragility:** While models refuse blatant single-turn harmful queries, fictional/academic persona framing (e.g., exam-grading rubrics or movie-script commands) and prompt-injection overrides still bypass safety boundaries.
 2. **Over-Refusal & Fluency Degradation under Naive Hardening:** Aggressive safety interventions often cause unnecessary refusals on benign security/medical queries or trigger degenerate repetition loops.
 
-We connect **four libraries from the Lexsi open-source stack** into a single reproducible workflow on `CohereLabs/tiny-aya-earth`:
+I connect **four libraries from the Lexsi open-source stack** into a single reproducible workflow on `CohereLabs/tiny-aya-earth`:
 
 ```text
 [ Synthetic Red-Teaming (Qwen/Qwen2.5-72B-Instruct) ]
