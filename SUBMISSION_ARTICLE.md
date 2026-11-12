@@ -55,7 +55,7 @@ We integrated **4 repositories** from the Lexsi Labs stack:
 
 ## 5. Model Artifacts (Public on Hugging Face Collection)
 
-* **Hugging Face Collection:** `[INSERT_YOUR_HF_COLLECTION_URL_HERE]` *(bundle all artifacts below into one public HF Collection before publishing)*
+* **Hugging Face Collection:** [Tiny Aya Safety Alignment & Steering](https://huggingface.co/collections/Eterniti/tiny-aya-safety-alignment-and-steering-6af57502e34895830a3fb0f4) *(bundles all model, dataset, audit log, and Space artifacts)*
 * **LoRA Adapter (v2):** [Eterniti/tiny-aya-safety-dpo-adapter](https://huggingface.co/Eterniti/tiny-aya-safety-dpo-adapter)
 * **Live ZeroGPU Demo Space:** [Eterniti/tiny-aya-safety-playground](https://huggingface.co/spaces/Eterniti/tiny-aya-safety-playground)
 * **GitHub Code & Chart Scripts:** [DataGuy-Eterniti/lexsi-cohere-safety-alignment](https://github.com/DataGuy-Eterniti/lexsi-cohere-safety-alignment)
@@ -64,6 +64,7 @@ We integrated **4 repositories** from the Lexsi Labs stack:
 
 ## 6. Data Artifacts (Public on Hugging Face Collection)
 
+* **Hugging Face Collection:** [Tiny Aya Safety Alignment & Steering](https://huggingface.co/collections/Eterniti/tiny-aya-safety-alignment-and-steering-6af57502e34895830a3fb0f4)
 * **Curated Training Dataset (v2, 80 pairs + provenance):** [Eterniti/curated-cohere-safety-dpo](https://huggingface.co/datasets/Eterniti/curated-cohere-safety-dpo)
 * **AuditKIT Red-Team Evaluation Logs (47 checks):** [Eterniti/tiny-aya-safety-audit-logs](https://huggingface.co/datasets/Eterniti/tiny-aya-safety-audit-logs)
 

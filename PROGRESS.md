@@ -18,8 +18,8 @@
 | **Curated DPO Dataset (v2)** | [Eterniti/curated-cohere-safety-dpo](https://huggingface.co/datasets/Eterniti/curated-cohere-safety-dpo) | 🟢 **Published (80 pairs across 5 axes)** + `lexsi_provenance.json` |
 | **AuditKIT Evaluation Logs** | [Eterniti/tiny-aya-safety-audit-logs](https://huggingface.co/datasets/Eterniti/tiny-aya-safety-audit-logs) | 🟢 **Published (`RedTeamRunner` 47 checks)** |
 | **GitHub Repository** | [DataGuy-Eterniti/lexsi-cohere-safety-alignment](https://github.com/DataGuy-Eterniti/lexsi-cohere-safety-alignment) | 🟢 Updated with verified chart, `README.md`, & `SUBMISSION_ARTICLE.md` |
-| **Hugging Face Collection** | *Pending creation on HF UI* | 🟡 Needs 1 public HF Collection linking the 4 artifacts above |
-| **9-Section HF Article** | [SUBMISSION_ARTICLE.md](SUBMISSION_ARTICLE.md) | 🟢 Drafted & ready to publish on Hugging Face |
+| **Hugging Face Collection** | [Tiny Aya Safety Alignment & Steering](https://huggingface.co/collections/Eterniti/tiny-aya-safety-alignment-and-steering-6af57502e34895830a3fb0f4) | 🟢 **Published** (all 4 Hub artifacts linked + `cc-by-nc-4.0` licenses set) |
+| **9-Section HF Article** | [SUBMISSION_ARTICLE.md](SUBMISSION_ARTICLE.md) | 🟢 Finalized with live Collection URL — ready to publish on Hugging Face |
 
 ---
 
@@ -40,6 +40,6 @@
 
 ## 📋 Final Pre-Deadline Checklist (Due Nov 14, AoE)
 
-1. **Create Public Hugging Face Collection:** Bundle `Eterniti/tiny-aya-safety-dpo-adapter`, `Eterniti/curated-cohere-safety-dpo`, `Eterniti/tiny-aya-safety-audit-logs`, and `Eterniti/tiny-aya-safety-playground` into a public HF Collection (and add `cc-by-nc-4.0` / `apache-2.0` license tags to the model/dataset cards).
-2. **Publish Hugging Face Article:** Copy [SUBMISSION_ARTICLE.md](SUBMISSION_ARTICLE.md), insert your HF Collection link(s) in Sections 5–6, attach `benchmark_results.png`, and publish on Hugging Face.
+1. ✅ **Public Hugging Face Collection Created:** All 4 artifacts bundled into [Tiny Aya Safety Alignment & Steering](https://huggingface.co/collections/Eterniti/tiny-aya-safety-alignment-and-steering-6af57502e34895830a3fb0f4), and `cc-by-nc-4.0` license tags set on both the adapter and dataset cards.
+2. **Publish Hugging Face Article:** Copy [SUBMISSION_ARTICLE.md](SUBMISSION_ARTICLE.md) (Collection link already inserted), attach `benchmark_results.png` in Section 7, and publish on Hugging Face.
 3. **Submit Form:** Submit the public GitHub repo, HF Collection, Space, and HF Article via the official Lexsi hackathon submission form before **November 14, 2026 (AoE)**.
