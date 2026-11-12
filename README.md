@@ -9,11 +9,11 @@
 </p>
 
 <p>
-  <a href="assets/demo.mp4">▶ Watch the 80-second demo</a> ·
+  <a href="assets/demo.mp4">▶ Watch the demo (16:9)</a> ·
+  <a href="assets/demo_mobile_9x16.mp4">📱 Mobile Reel (9:16)</a> ·
   <a href="https://huggingface.co/spaces/Eterniti/tiny-aya-safety-playground">🚀 Live ZeroGPU Space</a> ·
   <a href="https://huggingface.co/blog/Eterniti/tiny-aya-safety-alignment-steering">📝 Technical Article</a> ·
-  <a href="https://huggingface.co/collections/Eterniti/tiny-aya-safety-alignment-and-steering-6af57502e34895830a3fb0f4">🤗 HF Collection</a> ·
-  <a href="#-5-reproduce-locally-or-in-colab">💻 Quickstart</a>
+  <a href="https://huggingface.co/collections/Eterniti/tiny-aya-safety-alignment-and-steering-6af57502e34895830a3fb0f4">🤗 HF Collection</a>
 </p>
 
 <p>
